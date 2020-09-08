@@ -1,0 +1,19 @@
+.table-tugas12 {
+    width: 98%;
+    border: 1px solid black;
+    justify-items: center;
+    margin: auto;
+  }
+  
+  tbody {
+    width: 100%;
+  }
+  
+  .table-tugas12 th {
+    background-color: gray;
+  }
+  
+  .table-tugas12 td {
+    background-color: orangered;
+  }
+  
