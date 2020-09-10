@@ -1,0 +1,18 @@
+.table-tugas14 {
+  width: 98%;
+  border: 1px solid black;
+  justify-items: center;
+  margin: auto;
+}
+
+tbody {
+  width: 100%;
+}
+
+.table-tugas14 th {
+  background-color: gray;
+}
+
+.table-tugas14 td {
+  background-color: orangered;
+}
